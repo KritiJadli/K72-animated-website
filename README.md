@@ -1,4 +1,10 @@
 K72 — Creative Agency Website
+🛠️ Built With
+React
+Tailwind CSS
+GSAP
+React Router
+Vite
 
 A modern creative agency website inspired by K72 and built with a strong focus on visual storytelling, smooth interactions, and minimal design.
 
@@ -54,9 +60,4 @@ User interaction
 
 to create a memorable experience.
 
-🛠️ Built With
-React
-Tailwind CSS
-GSAP
-React Router
-Vite
+
